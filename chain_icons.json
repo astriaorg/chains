@@ -1655,6 +1655,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lyra",
+  "icons": [{
+    "url": "ipfs://bafkreifrvwcwcgs2luampufdbdgohuxue5rep3u4p4owmwskob7hzpcfdq",
+    "width": 2640,
+    "height": 2640,
+    "format": "png"
+  }]
+}, {
   "name": "mmt",
   "icons": [{
     "url": "ipfs://QmaF5gi2CbDKsJ2UchNkjBqmWjv8JEDP3vePBmxeUHiaK4",
@@ -2436,6 +2444,14 @@
     "url": "ipfs://bafkreihs2nrnizpcuzjmuu2yi7wrtwd7qlqje46qnil5bnntfbfkb2roea",
     "width": 1000,
     "height": 1000,
+    "format": "png"
+  }]
+}, {
+  "name": "astria",
+  "icons": [{
+    "url": "ipfs://QmVbzZYXdVFY3uFaWQd7iSRtdM2UKWohj9fVqqEwxcw2RV",
+    "width": 200,
+    "height": 200,
     "format": "png"
   }]
 }, {
